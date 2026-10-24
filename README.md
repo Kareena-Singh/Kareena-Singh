@@ -63,26 +63,6 @@ I specialize in Flutter development, creating responsive user interfaces, integr
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-### 🏢 HRMS Mobile Application
-- Employee onboarding, attendance, leave management, payslips, and document management.
-- Developed mobile application features and integrated backend APIs.
-
-### 🛒 Farm To Family
-- Grocery ordering, subscriptions, wallet functionality, and payment gateway integration.
-- Worked on order management, booking flows, and payment-related features.
-
-### 🎓 SchoolPlus
-- Teacher and parent mobile application features.
-- Integrated APIs to support school-related workflows and communication.
-
-### 🚲 Saathi – Public Bike Sharing
-- Worked on QR-based bike rental flows, wallet functionality, subscriptions, and location-related features.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -101,7 +81,7 @@ I specialize in Flutter development, creating responsive user interfaces, integr
   <a href="https://github.com/Kareena-Singh">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/kareena-singh-04a453331/">
+  <a href="linkedin.com/in/kareena-singh-04a453331">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
